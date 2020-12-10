@@ -1,0 +1,440 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* <!-- **************************************************pg1 starts******************************************* --> */
+
+
+.nav-link {
+    font-size: 3rem!important;
+    font-weight: bold;
+    margin:5px 10px;
+    color: greenyellow!important;
+}
+
+.pgp {
+    padding: 80px 10px;
+    margin: auto;
+}
+
+.pgp h1, .pgp h2{
+    text-align: center!important;
+    color: greenyellow;
+    font-weight: bold;
+}
+
+.pgp h1{
+    margin: 20px 0px;
+    font-family: 'Architects Daughter', cursive;
+    color:greenyellow;
+}
+
+.pgp h2{
+    margin-top: 40px;
+}
+
+.h2{
+    text-align: center;
+    color: greenyellow;
+}
+.pgp{
+    position: relative;
+}
+.pgp .btnn{
+    display: block ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    color: greenyellow;
+    padding: 10px 80px;
+    background: #4b4439;
+    font-size: 100%;
+}
+
+.pg1 {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../images/pg1imggg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+/* /* <!-- **************************************************pg1 Endss******************************************* -->  */
+
+/* /* <!-- **************************************************pg2 Starts******************************************* -->  */
+
+
+.pg2{
+    overflow: hidden;
+    position: relative;
+    height: 50vh;
+}
+
+.pg2 .pg2p2 img{
+    width: 100vh;
+    height: 50vh;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.pg2
+{
+    background: #212121;
+}
+
+.pg2p1 {
+    margin: auto;
+    padding: 40px;
+}
+
+.pg2p1{
+    color: greenyellow;
+    text-align: center;
+}
+
+.pg2p1 p{
+    color: greenyellow;
+    text-align: center;
+
+}
+
+/* /* <!-- **************************************************pg2 Endss******************************************* -->  */
+
+
+/* /* <!-- **************************************************pg3 Starts******************************************* -->  */
+
+
+.pg3{
+    height: auto;
+    padding: 40px;
+    background:#636365;
+    color: #fff;
+}
+
+.pg3p{
+    padding: 40px;
+}
+
+.pg3p h3{
+    font-family: 'Architects Daughter', cursive;
+    color: #aed2c0;
+}
+
+.pg3p p{
+    color: #9eff6d;
+}
+
+/* /* <!-- **************************************************pg3 Endss******************************************* -->  */
+
+
+/* /* <!-- **************************************************pg4 Starts******************************************* -->  */
+.pg4{
+    padding: 40px;
+    background: #212121;
+}
+
+.pg4t{
+    padding: 40px;
+    margin: 40px 80px;
+    background: #636365;
+}
+.pg4h{
+    text-align: center;
+    padding: 10px;
+}
+
+.pg4h h2{
+    color: greenyellow;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.pg4h p{
+    font-size: 2rem;
+    color: white;
+}
+.pg4p1 img{
+    width: 108%;
+    height: 100%;
+    padding: 0px!important;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.pg4p1 {
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+}
+
+.pg4p2{
+    text-align: center;
+    margin: auto;
+    font-size: 100%;
+    padding: 40px 70px;
+}
+
+.pg4p2 h4{
+    color: greenyellow;
+    font-family: 'Architects Daughter', cursive;
+
+}
+
+.pg4p2 p{
+    color: #f3d9d9;
+}
+
+.pg4p2 .mo{
+    color: white;
+}
+
+/* /* <!-- **************************************************pg4 Ends******************************************* -->  */
+
+
+/* /* <!-- **************************************************pg5 Starts******************************************* -->  */
+
+.pg5p{
+    padding: 80px 30px;
+    text-align: center;
+    background: #636365;
+}
+
+.pg5p h2{
+    color: greenyellow;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.pg5p p{
+    color: #fff;
+}
+
+/* /* <!-- **************************************************pg5 Ends******************************************* -->  */
+
+/* /* <!-- **************************************************pg6 Starts******************************************* -->  */
+
+.pg6 img{
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* /* <!-- **************************************************pg6 Ends******************************************* -->  */
+
+
+/* /* <!-- **************************************************pg7 Starts******************************************* -->  */
+
+.pg7 h2, .pg11 h2{
+    text-align: center;
+    color: #aed2c0;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.pg7 h1, .pg11 h1{
+    text-align: center;
+    color: white;
+}
+
+.pg7{
+    padding: 30px 40px;
+    background: #636365;
+}
+
+.pg7p{
+    padding: 30px 0px;
+}
+
+ .pg7p p{
+    color: #9eff6d;
+    padding: 0px 10px;
+}
+
+.sp h4{
+    padding: 0px 10px;
+    color: #aed2c0;
+}
+
+.pg7p h2{
+    color: #aed2c0;
+    padding: 0px 10px;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.sicon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+}
+
+
+/* /* <!-- **************************************************pg7 Ends******************************************* -->  */
+
+/* /* <!-- **************************************************pg8 Starts******************************************* -->  */
+
+.pg8 img{
+    width: 100%;
+    height: 100%;
+}
+
+/* /* <!-- **************************************************pg8 Ends******************************************* -->  */
+
+/* /* <!-- **************************************************pg9 Starts******************************************* -->  */
+.pg9{
+    padding: 40px;
+    background: black;
+    position: relative;
+}
+.pg9 h2{
+    color: #aed2c0;
+    padding: 0px 10px;
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+}
+
+.pg9p{
+    color: #fff;
+    padding: 40px 100px!important;
+    display: block;
+    margin: auto;
+}
+
+.form-control{
+    background-color: black!important;
+    color: white!important;
+    border-radius: 10px!important;
+}
+
+.btns{
+    background: black;
+    color: white;
+    border: white solid;
+    border-radius: 10px;
+    padding: 10px 100px;
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+/* /* <!-- **************************************************pg9 Ends******************************************* -->  */
+
+
+/* /* <!-- **************************************************pg10 Starts******************************************* -->  */
+
+.pg10 img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.card{
+    justify-content: center;
+    align-items: center;
+}
+
+/* /* <!-- **************************************************pg10 Ends******************************************* -->  */
+
+/* /* <!-- **************************************************pg11 Starts******************************************* -->  */
+
+.pg11{
+    overflow: hidden;
+    padding: 40px 0px;
+    background: #636365;
+
+}
+
+.card {
+    width: 20rem!important;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    border-style:none!important;     
+}
+
+.card .card-body a{
+    border-bottom: 5px solid greenyellow;
+    text-decoration: none;  
+    color: black;
+}
+/* /* <!-- **************************************************pg11 Ends******************************************* -->  */
+
+
+/* /* <!-- **************************************************pg12 Starts******************************************* -->  */
+
+.pg12{
+    text-align: center;
+    padding: 40px;
+    background: black;
+}
+
+.pg12 h4{
+    color: greenyellow;
+}
+
+.horny{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    color: greenyellow;
+
+}
+
+.pg12 i{
+    color: white;
+}
+
+/* /* <!-- **************************************************pg12 Ends******************************************* -->  */
+
+/* /* <!-- **************************************************pg13 Starts******************************************* -->  */
+.pg13{
+    padding: 40px;
+    background: #636365;
+}
+
+.pg13p2 h4, .pg13p2 h3{
+    margin-top: 20px;
+    color: white;
+}
+
+.p13p1 h2, .p13p1 p{
+    color: white;
+}
+
+
+/* /* <!-- **************************************************Meadia Queries starts******************************************* -->  */
+@media(max-width:991px){
+    
+    .nav-link {
+        font-size: 1rem!important;
+        font-weight: bold;
+        color: #dd4848!important;
+    }
+
+    .pg2{
+        height: auto;
+    }
+    .pg4t{
+        margin: 40px 0px;
+
+    }
+
+    .pg4p1 {
+        margin: 20px 0px;
+    }
+    .pg9p{
+        padding: 40px 10px!important;
+    }
+
+}
+
+
+
+
+
